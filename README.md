@@ -3,7 +3,7 @@ Sensor de Segurança Laser, feito atráves de Arduino, para a materia de Organiz
 
 Feito a partir de:
 
-1 - Arduino UNO \n
+1 - Arduino UNO
 1 - Módulo LDR
 1 - Módulo Laser
 1 - Protoboard
