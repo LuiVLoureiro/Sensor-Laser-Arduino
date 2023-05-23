@@ -2,6 +2,12 @@
 
 Este é um projeto de Sensor de Segurança a Laser desenvolvido utilizando Arduino, para a disciplina de Organização e Arquitetura de Computadores.
 
+
+
+https://github.com/LuiVLoureiro/Sensor-Laser-Arduino/assets/103609685/64d3ac82-7b2d-4261-ac4e-214110074ebb
+
+
+
 ## Componentes Necessários
 
 - 1 Arduino UNO
