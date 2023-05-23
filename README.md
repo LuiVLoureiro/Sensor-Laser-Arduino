@@ -64,6 +64,10 @@ Após isso, há um atraso de 200 milissegundos antes de repetir o loop novamente
 
 Certifique-se de ter definido corretamente os pinos DETECT e ACTION de acordo com a sua montagem física do circuito.
 
+## Colaboradores
+
+### Aldo Souza: [https://github.com/aldocsouza](https://github.com/aldocsouza)
+### Marcos Paulo: https://github.com/Mp455
 
 ## Fotos do Projeto
 
@@ -73,3 +77,8 @@ Certifique-se de ter definido corretamente os pinos DETECT e ACTION de acordo co
 ![WhatsApp Image 2023-04-01 at 20 17 51](https://github.com/LuiVLoureiro/Sensor-Laser-Arduino/assets/103609685/324cd198-55a0-40bb-9bfa-ecdad880eb8c)
 
 ![WhatsApp Image 2023-04-01 at 20 02 15](https://github.com/LuiVLoureiro/Sensor-Laser-Arduino/assets/103609685/955339c3-9396-4456-a2e0-d76afdf38e88)
+
+![image](https://github.com/LuiVLoureiro/Sensor-Laser-Arduino/assets/103609685/0b4bac15-a3f6-4f49-bcfa-e581166f75ad)
+
+![image](https://github.com/LuiVLoureiro/Sensor-Laser-Arduino/assets/103609685/d6641e8d-9b9e-4bd2-95fc-5f468d68b62f)
+
