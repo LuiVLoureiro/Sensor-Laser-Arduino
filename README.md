@@ -12,5 +12,5 @@ Feito a partir de:
 
 OBS: Foi utilizado um segundo Arduino apenas como fonte de alimentação para o modulo LDR, mas poderia ser trocado por alguma fonte de energia.
 
-###https://github.com/LuiVLoureiro/Sensor-Laser-Arduino/assets/103609685/6036f48b-1d8d-4d32-b47c-8c0d96acc83e
+https://github.com/LuiVLoureiro/Sensor-Laser-Arduino/assets/103609685/6036f48b-1d8d-4d32-b47c-8c0d96acc83e
 
