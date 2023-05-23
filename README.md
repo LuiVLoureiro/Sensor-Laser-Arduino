@@ -21,7 +21,7 @@ https://github.com/LuiVLoureiro/Sensor-Laser-Arduino/assets/103609685/64d3ac82-7
 
 ## Montagem do Circuito
 
-# No primeiro Arduino:
+### No primeiro Arduino:
 
 1. Conecte o módulo LDR à protoboard.
 2. Conecte o módulo LDR ao Arduino utilizando 3 jumpers:
@@ -32,7 +32,7 @@ https://github.com/LuiVLoureiro/Sensor-Laser-Arduino/assets/103609685/64d3ac82-7
    - Conecte o pino positivo do buzzer ao pino 8 (saída digital) do Arduino.
    - Conecte o pino negativo do buzzer ao pino segundo GND do Arduino.
   
-# No Segundo Arduino:
+### No Segundo Arduino:
 
   1. Conecte o módulo Laser ao Arduino utilizando 2 jumpers:
    - Conecte o pino positivo do módulo Laser (Representado como S) ao pino 5V do Arduino.
@@ -50,7 +50,7 @@ O Arduino UNO pode ser alimentado através de uma fonte de energia externa (por 
 
 ## Explicação do Código
 
-# Código no Arquivo ".txt"
+### Código no Arquivo ".txt"
 
 Este código implementa o funcionamento do sensor de laser no Arduino. Ele utiliza dois pinos digitais: um para o sensor (DETECT, pino 2) e outro para realizar uma ação quando o laser é detectado (ACTION, pino 8).
 
