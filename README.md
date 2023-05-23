@@ -68,6 +68,7 @@ Certifique-se de ter definido corretamente os pinos DETECT e ACTION de acordo co
 
 ### Aldo Souza: [https://github.com/aldocsouza](https://github.com/aldocsouza)
 ### Marcos Paulo: https://github.com/Mp455
+### Gabriel Braga: https://github.com/gabriel-braga1058
 
 ## Fotos do Projeto
 
